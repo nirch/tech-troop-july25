@@ -1,0 +1,26 @@
+
+* {
+  box-sizing: border-box;
+}
+
+
+.box-model p {
+  background-color: lightgray;
+  width: 300px;
+  padding: 20px;
+  border: 10px solid green;
+  /* margin: 20px; */
+}
+
+button {
+  padding: 50px;
+  margin: 50px;
+}
+
+
+div.center-block > div {
+  width: 50%;
+  border: 1px solid red;
+  text-align: center ;
+  margin: 0 auto;
+}
