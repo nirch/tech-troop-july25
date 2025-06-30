@@ -1,0 +1,25 @@
+
+span.inline {
+  border: 1px solid green;
+  width: 100%;
+  margin: 40px;
+}
+
+div.block {
+  border: 1px solid red;
+  padding: 20px;
+  margin: 40px;
+}
+
+div.w-50 {
+  width: 50%;
+}
+
+.be-block {
+  display: block;
+} 
+
+/* id selector */
+#my-div {
+
+}
