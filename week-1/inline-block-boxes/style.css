@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box;
+}
+
+div.content {
+  background-color: aqua;
+  border: solid navy;
+  padding: 50px 0;
+  font-size: initial;
+  text-align: center;
+}
+
+/* https://css-tricks.com/fighting-the-space-between-inline-block-elements/ */
+.row {
+  font-size: 0;
+}
+
+.column {
+  display: inline-block;
+  width: calc(100% / 3);
+  padding: 5px;
+  border: solid black;
+}
