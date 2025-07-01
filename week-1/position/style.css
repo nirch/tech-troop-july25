@@ -1,0 +1,39 @@
+
+/* h1 {
+  position: relative;
+  z-index: 1;
+} */
+
+div.static {
+  position: static; /* this is the default */
+  border: solid red;
+}
+
+div.relative {
+  position: relative;
+  border: solid blue;
+  top: 15px;
+  left: 50px;
+  /* background-color: aqua; */
+}
+
+div.fixed {
+  position: fixed;
+  border: solid green;
+  top: 0;
+  left: 0;
+  background-color: aquamarine;
+}
+
+div.absolute {
+  position: absolute;
+  border: solid orange;
+  top: 0;
+  right: 0;
+}
+
+div.parent {
+  position: relative;
+  border: solid purple;
+  height: 400px;
+}
