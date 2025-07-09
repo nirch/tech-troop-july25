@@ -1,0 +1,43 @@
+
+.container {
+  max-width: 1200px;
+  margin: auto;
+}
+
+.home-content {
+  display: flex;
+}
+
+.item {
+  flex: 1;
+  border: solid;
+  height: 200px;
+  padding: 30px;
+  display: flex;
+  justify-content: center;
+}
+
+.circle-img-container {
+  aspect-ratio: 1 / 1;
+  height: 100%;
+  /* border: solid;
+  border-radius: 50%; */
+}
+
+.circle-img-container img {
+  width: 100%;
+  border-radius: 50%;
+}
+
+
+@media (max-width: 768px) {
+  .home-content {
+    flex-direction: column;
+  }
+
+
+  .item {
+    flex: initial;
+  }
+
+}
