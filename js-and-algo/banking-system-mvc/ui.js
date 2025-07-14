@@ -9,6 +9,10 @@ function displayMenu() {
   console.log("4) Exit  ");
 }
 
+function showErrorMessage(message) {
+  console.log("X Error: " + message)
+}
+
 function getMenuChoice() {
   // loop until input number between 1 - 4
   const input = prompt('Choose option (1 - 4): '); 
