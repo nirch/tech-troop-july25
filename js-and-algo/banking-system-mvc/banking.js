@@ -35,3 +35,19 @@ module.exports = {
 }
 
 // Test....
+
+
+// Removing indentation
+// function bla(x) {
+//   if (isValid(x)) {
+//     ...
+//   }
+
+//   if (!isValid(x)) {
+//     // throw ...
+//     // return ...
+//   }
+
+
+//   ...
+// }
