@@ -1,0 +1,13 @@
+
+div#parent {
+  width: 500px;
+  height: 500px;
+  border: solid;
+}
+
+div#child {
+  width: 150px;
+  height: 150px;
+  border: solid;
+  margin: 30px;
+}

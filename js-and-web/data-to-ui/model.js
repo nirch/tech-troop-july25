@@ -1,13 +1,16 @@
 const shoppingList = [
   {
+    id: "111",
     name: "Milk",
     completed: true,
   },
   {
+    id: "222",
     name: "Honey",
     completed: false,
   },
   {
+    id: "333",
     name: "Bread",
     completed: false,
   }

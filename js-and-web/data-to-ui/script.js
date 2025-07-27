@@ -10,7 +10,9 @@ function refreshShoppingList(shoppingList) {
     const newItem = document.createElement('li');
     newItem.className = item.completed ? "completed" : "";
     newItem.textContent = item.name;
-    newItem.addEventListener('click', () => {
+    newItem.setAttribute("data-id", item.id);
+    newItem.addEventListener('click', (event) => {
+      console.log(event.target.getAttribute("data-id"));
       item.completed = !item.completed;       // FOUL : export method updates completed
       refreshShoppingList(getShoppingList());
     })
