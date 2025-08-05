@@ -14,3 +14,11 @@ https://codesandbox.io/p/sandbox/6rgv4g
 
 https://github.com/nirch/tech-troop-movie-app
 
+## Props Basics
+
+https://codesandbox.io/p/sandbox/pw4d9c
+
+## Dots - Props Example
+
+https://codesandbox.io/p/sandbox/6j56xf
+
