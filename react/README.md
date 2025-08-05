@@ -9,3 +9,8 @@ https://codesandbox.io/p/sandbox/xv5t8j
 ## JSX Basics
 
 https://codesandbox.io/p/sandbox/6rgv4g
+
+## Movie App
+
+https://github.com/nirch/tech-troop-movie-app
+
