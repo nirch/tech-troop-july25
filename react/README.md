@@ -42,3 +42,7 @@ https://codesandbox.io/p/sandbox/vyvsp6
 ## Controlled Components (Inputs)
 
 https://codesandbox.io/p/sandbox/react-forms-controlled-components-cgyj88
+
+## State Lifting - Dots
+
+https://codesandbox.io/p/devbox/dots-props-forked-tnc7mf?workspaceId=ws_GCFXAAkRLVPjMK4aqTRmLH
