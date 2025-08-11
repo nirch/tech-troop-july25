@@ -46,3 +46,11 @@ https://codesandbox.io/p/sandbox/react-forms-controlled-components-cgyj88
 ## State Lifting - Dots
 
 https://codesandbox.io/p/devbox/dots-props-forked-tnc7mf?workspaceId=ws_GCFXAAkRLVPjMK4aqTRmLH
+
+## useEffect - Basics
+
+https://codesandbox.io/p/sandbox/llxs7w
+
+## useEffect - Cleanup (RandomColorBox)
+
+https://codesandbox.io/p/sandbox/3nvyhg
